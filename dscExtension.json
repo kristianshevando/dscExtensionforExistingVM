@@ -28,7 +28,7 @@
           "settings": {
             "modulesUrl": "https://github.com/kristianshevando/dscExtensionforExistingVM/raw/master/dscExtension.zip",
             "wmfVersion": "latest",
-            "ConfigurationFunction": "ExampleDSC.ps1\\ExampleDSC"
+            "xWebsite": "dscExtension.ps1\\MainHTTPWebsite"
           }
         }
       }
